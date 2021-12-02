@@ -1,0 +1,8 @@
+{
+    "name": "ERGO MSBuild",
+    "description": "Default ERGO MSBuild Template",
+    "iconName": "msbuild-icon",
+    "categories": [
+        ".NET"
+    ]
+}
